@@ -132,6 +132,7 @@ namespace Formulas
         /// <summary>
         /// Constructs a FormulaFormatException containing the explanatory message.
         /// </summary>
+        /// added comment
         public FormulaFormatException(String message) : base(message)
         {
         }
